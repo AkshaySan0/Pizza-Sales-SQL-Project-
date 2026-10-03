@@ -73,5 +73,7 @@ The analysis shows that customers prefer large pizzas, ordering peaks around lun
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+Akshay Nag
+
+**Akshay Nag**
+[LinkedIn](https://www.linkedin.com/in/akshay-nag-459298300/) 
